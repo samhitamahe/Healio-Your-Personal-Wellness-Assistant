@@ -42,9 +42,9 @@ You can access a hosted demo of Healio here:
 
 Here are some visuals demonstrating Healio's key features:
 
-- **Book Appointment**: ![Book Appointment](#)
-- **Buy Medicine**: ![Buy Medicine](#)
-- **Dietary Plan**: ![Dietary Plan](#)
+- **Book Appointment**: ![Book Appointment](1.mp4)
+- **Buy Medicine**: ![Buy Medicine](2.mp4)
+- **Dietary Plan**: ![Dietary Plan](3.mp4)
 
 ## 🤝 Contribution
 
