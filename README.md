@@ -42,9 +42,9 @@ You can access a hosted demo of Healio here:
 
 Here are some visuals demonstrating Healio's key features:
 
-- **Book Appointment**: ![Book Appointment](1.mp4)
-- **Buy Medicine**: ![Buy Medicine](2.mp4)
-- **Dietary Plan**: ![Dietary Plan](3.mp4)
+- **Book Appointment**: ![Book Appointment](https://github.com/samhitamahe/Healio-Your-Personal-Wellness-Assistant/blob/05db28d5563493a3511c852914f5f1c4e1450bbc/1.mp4)
+- **Buy Medicine**: ![Buy Medicine](https://github.com/samhitamahe/Healio-Your-Personal-Wellness-Assistant/blob/05db28d5563493a3511c852914f5f1c4e1450bbc/2.mp4)
+- **Dietary Plan**: ![Dietary Plan](https://github.com/samhitamahe/Healio-Your-Personal-Wellness-Assistant/blob/05db28d5563493a3511c852914f5f1c4e1450bbc/3.mp4)
 
 ## 🤝 Contribution
 
