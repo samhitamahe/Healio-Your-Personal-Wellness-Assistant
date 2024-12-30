@@ -44,9 +44,8 @@ Here are some visuals demonstrating Healio's key features:
 
 
 ![](https://github.com/samhitamahe/Healio-Your-Personal-Wellness-Assistant/blob/d3bb5d9600687e9484a0bd1d86b74da411a1a713/1-ezgif.com-video-to-gif-converter.gif?raw=true)
-
- [Watch the video](https://github.com/samhitamahe/Healio-Your-Personal-Wellness-Assistant/blob/05db28d5563493a3511c852914f5f1c4e1450bbc/2.mp4?raw=true)
-- **Dietary Plan**: [Watch the video](https://github.com/samhitamahe/Healio-Your-Personal-Wellness-Assistant/blob/05db28d5563493a3511c852914f5f1c4e1450bbc/3.mp4?raw=true)
+![](https://github.com/samhitamahe/Healio-Your-Personal-Wellness-Assistant/blob/bafe5e61b28ed751496b8383779a77379c79f5db/2-ezgif.com-video-to-gif-converter.gif)
+![](https://github.com/samhitamahe/Healio-Your-Personal-Wellness-Assistant/blob/bafe5e61b28ed751496b8383779a77379c79f5db/3-ezgif.com-video-to-gif-converter.gif)
   
 ## 🤝 Contribution
 
