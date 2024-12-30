@@ -18,7 +18,6 @@ Healio acts as your personal wellness assistant, providing users with access to 
 - **My Appointment**: View, reschedule, or cancel your appointments with simple steps.
 - **Health & Wellness**: Tailored meal plans, stress-relief activities, and organic product recommendations.
 - **Healthcare Services**: Find hospitals nearby and buy medicines online.
-- **Multi-language Support**: Designed for a diverse audience, supporting users in English, Spanish, and Japanese.
 
 ## 🔧 Technologies Used
 
@@ -37,42 +36,7 @@ Healio acts as your personal wellness assistant, providing users with access to 
 
 You can access a hosted demo of Healio here:
 
-👉 [Link to Hosted Demo](#)
-
-## 📥 Installation
-
-To get started with Healio, follow these steps:
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/yourusername/healio.git
-    cd healio
-    ```
-
-2. Set up Zoho SalesIQ:
-
-    - Create a Zoho SalesIQ account and configure your bot there.
-    - Use the Deluge scripting language to implement the logic shared in the repository.
-
-3. API Integration:
-
-    - Register for APIs (Spoonacular, Calendly, Twilio, Overpass, ZenQuotes, Joke API, Google Books).
-    - Add your API keys and set up the necessary integrations in Zoho SalesIQ.
-
-4. Google Sheets Integration:
-
-    - Create Google Sheets for storing medicine products and user transactions.
-    - Set up Google Sheets API in Zoho SalesIQ to connect and interact with the data.
-
-## ⚙️ Configuration
-
-In Zoho SalesIQ, create the necessary workflows and rules for the bot to perform the actions described. This involves:
-
-- Setting up user flow (from Main Menu to sub-options).
-- Implementing OTP verification via Twilio.
-- Integrating API responses (meal plans, health recommendations, hospital locator, etc.).
-- Setting up Calendar scheduling for appointment booking.
+👉 [Link to Hosted Demo](https://bespoke-praline-224d75.netlify.app/)
 
 ## 🖼️ Screenshots & GIFs
 
